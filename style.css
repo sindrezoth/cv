@@ -1,0 +1,15 @@
+* {
+    outline: dashed red 1px;
+    background-color: #141414;
+    font-weight: bold;
+    color: #aaa;
+}
+
+header {
+    background-color: #222;
+}
+
+sidebar { 
+    width: 100px;
+    background-color: #223344;
+}
