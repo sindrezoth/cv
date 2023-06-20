@@ -7,13 +7,8 @@
     margin: 0px;
 }
 
-header {
-    background-color: #222;
-}
-
 .frame {
     width: 60%;
-    
     margin-left: 20%;
     background-color: rgb(22, 117, 117);
 }
